@@ -1,0 +1,10 @@
+-------------------------Cavab №1------------------------- 
+let numRandom = Math.random();
+let num = numRandom1 * 11;
+
+// Bu halda 0 ilə 10.999(...) arasında rəqəm döndərəcək.
+
+let numFloor = Math.floor(num);
+console.log(numFloor);
+
+// Bu halda 0 ilə 10 arası(0 və 10-da daxil olmaqla) rəqəm döndərəcək.
