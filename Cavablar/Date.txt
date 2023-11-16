@@ -1,0 +1,7 @@
+-------------------------Cavab №1------------------------- 
+
+let yeniTəqvim = `${saat}:${deqiqe}, ${gun}/${ay+1}/${il}`;
+
+console.log(yeniTəqvim);
+
+//Proqramlaşdırmada sayılar 1-dən deyil 0-dan başlayır. Hal-hazırki 11-ci ayı ekrana yazdırmağımız üçün üzərinə 1 rəqəmini gəlsək kifayətdir.
